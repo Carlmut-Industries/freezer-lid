@@ -1,0 +1,57 @@
+# Freezer Lid
+
+A top lid for the electronics compartment. Replaces Module 00490753 from Bosch/Siemens.
+
+## Installation
+
+The can be friction-fit in the Siemens GT38K920.
+
+## To-Do
+
+- [ ] Add LEDs and markings
+- [ ] Add buttons
+
+## Compatibility
+
+The model *should* also be compatible with following other freezers:
+
+|Brand  |Model      |
+|-------|-----------|
+|BOSCH  |GTL15920/01|
+|BOSCH  |GTL15920/02|
+|BOSCH  |GTL15920/03|
+|BOSCH  |GTL20920/01|
+|BOSCH  |GTL20920/02|
+|BOSCH  |GTL38920/01|
+|BOSCH  |GTL30920/01|
+|BOSCH  |GTL20922/01|
+|BOSCH  |GTL30922/01|
+|BOSCH  |GTL38920/03|
+|BOSCH  |GTL25920/03|
+|BOSCH  |GTL20920/03|
+|BOSCH  |GTL38922/01|
+|BOSCH  |GTL25920/01|
+|BOSCH  |GTL25920/02|
+|BOSCH  |GTL38920/02|
+|BOSCH  |GTL30920/02|
+|BOSCH  |GTL25922/01|
+|SIEMENS|GT15K920/01|
+|SIEMENS|GT15K920/02|
+|SIEMENS|GT15K920/03|
+|SIEMENS|GT20K920/01|
+|SIEMENS|GT20K920/02|
+|SIEMENS|GT25K920/01|
+|SIEMENS|GT25K920/02|
+|SIEMENS|GT38K922/01|
+|SIEMENS|GT20K922/01|
+|SIEMENS|GT20K920/03|
+|SIEMENS|GT25K920/03|
+|SIEMENS|GT38K920/03|
+|SIEMENS|GT30K922/01|
+|SIEMENS|GT25K922/01|
+|SIEMENS|GT30K920/01|
+|SIEMENS|GT38K920/01|
+|SIEMENS|GT30K920/02|
+|SIEMENS|GT38K920/02|
+
+Should the part be incompatible with a listed module, please let us know.
